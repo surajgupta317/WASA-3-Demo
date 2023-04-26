@@ -8,5 +8,6 @@ public class Practise {
 	public void sample()
 	{
 		System.out.println("sample");
+		System.out.println("branch");
 	}
 }
